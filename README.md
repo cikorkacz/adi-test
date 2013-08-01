@@ -18,7 +18,7 @@ Před samotným přijímacím pohovorem, prosíme o vypracování krátkého tes
 
 ### Popis pozice
 
-Chcete stát u zrodu něčeho nového? Jsme internetová společnost s podporou silného investora, která úspěšně buduje jedinečný projekt na českém trhu. Team máme menší (do 15-ti lidí), ale o to lépe fungující. Hledáme nového kolegu do teamu, který má chuť a zájem být u zrodu nových věcí a dělat věci pomoci nejnovějších postupů a standardnů na trhu. 
+Chcete stát u zrodu něčeho nového? Jsme AdInternet s.r.o., internetová společnost s podporou silného investora, která úspěšně buduje jedinečný projekt na českém trhu. Team máme menší (do 15-ti lidí), ale o to lépe fungující. Hledáme nového kolegu do teamu, který má chuť a zájem být u zrodu nových věcí a dělat věci pomoci nejnovějších postupů a standardnů na trhu. 
 
 Náplň práce:
 - tvorba, údržba a optimalizace sítě vlastních webových stránek a portálů 
